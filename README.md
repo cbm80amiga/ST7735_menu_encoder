@@ -1,4 +1,4 @@
-# ST7735_menu_encoder
+# ST7735 Simple menu with encoder
 Implementation of simple graphic user interface using cheap encoder and color LCD
 
 ## Required libraries
